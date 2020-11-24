@@ -3,5 +3,18 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1KG12111
   title: སྲས་ངག་དབང་བཀྲ་ཤིས་ཀྱིས་མཛད་པའི་བསྡུས་གྲྭ། ༼བཀྲ་ཤིས་འཁྱིལ་པར་མ།༽
-  volume: ''
+  volume:
+    d254709344ec45dbadc963949f9426a1:
+      image_group_id: I1KG12142
+      title: Volume 1 of sras ngag dbang bkra shis kyis mdzad pa'i bsdus grwa/ (bkra
+        shis 'khyil par ma/)
+      volume_number: 1
+      total_pages: 316
   author: ''
+ebook_metadata:
+  title: སྲས་ངག་དབང་བཀྲ་ཤིས་ཀྱིས་མཛད་པའི་བསྡུས་གྲྭ། ༼བཀྲ་ཤིས་འཁྱིལ་པར་མ།༽
+  author: ''
+  sku: P000278
+  cover: cover.jpg
+  layers:
+  - pagination
