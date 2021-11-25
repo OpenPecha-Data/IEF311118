@@ -1,5 +1,7 @@
 id: P000278
 initial_creation_type: ocr
+created_at: 20/02/2020
+last_modified_at: 25/11/2021
 source_metadata:
   id: bdr:W1KG12111
   title: སྲས་ངག་དབང་བཀྲ་ཤིས་ཀྱིས་མཛད་པའི་བསྡུས་གྲྭ། ༼བཀྲ་ཤིས་འཁྱིལ་པར་མ།༽
@@ -12,10 +14,3 @@ source_metadata:
       volume_number: 1
       total_pages: 316
       base_file: v001.txt
-ebook_metadata:
-  title: སྲས་ངག་དབང་བཀྲ་ཤིས་ཀྱིས་མཛད་པའི་བསྡུས་གྲྭ། ༼བཀྲ་ཤིས་འཁྱིལ་པར་མ།༽
-  author: ''
-  sku: P000278
-  cover: cover.jpg
-  layers:
-  - pagination
